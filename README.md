@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Rajith Ashok
 
+![RajithAshok's Profile views](https://komarev.com/ghpvc/?username=RajithAshok&theme=tokyonight)
+<br>
 
 - 🔭 I’m currently working on improving my skills on Flutter
 - 🌱 I’m learning UI/UX and JavaScript
